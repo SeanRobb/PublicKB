@@ -111,7 +111,7 @@ Facility is to set the type of program logging messages. The options are 16-23 f
               "typeCode": "WEBHOOK"
           },
           {
-              "typCode": "SYSLOG",
+              "typeCode": "SYSLOG",
               "sysLogSettings": {
                   "ipAddress": "12345",
                   "udpPort": "8081",
